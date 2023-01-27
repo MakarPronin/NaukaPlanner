@@ -1,4 +1,5 @@
 # NaukaPlanner (Unfinished Project)
+NaukaPlanner is a calendar for students to get suggestions on scheduling their homework. It has a pleasant minimalistic UI.
  
 # Render Link (Cloud Application Hosting): https://naukaplanner-webapp.onrender.com
 
